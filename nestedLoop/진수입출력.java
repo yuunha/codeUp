@@ -1,3 +1,5 @@
+package nestedLoop;
+
 public class 진수입출력 {
     public static void main(String[] args) {
         //16진수 입력받기!!

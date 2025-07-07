@@ -1,3 +1,5 @@
+package nestedLoop;
+
 import java.util.Scanner;
 
 public class CU_1361 {

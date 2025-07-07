@@ -8,3 +8,7 @@
 /dataSources.local.xml
 
 out/
+
+nestedLoop/out/
+
+twoDArray/.idea/
